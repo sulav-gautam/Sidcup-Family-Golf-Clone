@@ -1,3 +1,5 @@
+![preview](https://github.com/sulav-gautam/Sidcup-Family-Golf-Clone/assets/159540990/dadbaa4a-75ab-4957-9727-3cb8d1486a5d)
+
 # Overview
 This project replicates the front-end of the Sidcup Family Golf website using HTML, CSS, and JavaScript. It aims to provide a responsive and visually appealing user interface similar to the original site.
 
@@ -34,5 +36,9 @@ Ensuring the cursor remains responsive and visually appealing across different s
 ## Scroll Animations Synchronization
 Adjusting GSAP's ScrollTrigger parameters (start, end, scrub) for each animation to synchronize with scrolling events and achieve seamless transitions.
 
+
 ## Dynamic Content Management
 Managing dynamically scrolling content (#scroller) involved CSS animations and careful structure to avoid layout disruptions or performance issues.
+
+
+
